@@ -42,7 +42,7 @@ O app:
 
 ---
 
-## 🗂️ Estrutura recomendada do repositório
+## 🗂️ Estrutura do repositório
 
 ```
 .
