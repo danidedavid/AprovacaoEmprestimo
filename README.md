@@ -42,7 +42,7 @@ O app:
 
 ---
 
-## 🗂️ Estrutura do repositório
+## 🗂️ Estrutura recomendada do repositório
 
 ```
 .
@@ -57,7 +57,7 @@ O app:
 │       └── clientes_tratado.csv
 ├── notebooks/
 │   ├── 01_analysis.ipynb
-│   └── 02_predction.ipynb
+│   └── 02_prediction.ipynb
 └── models/
     └── maquina_preditiva.pkl
 ```
@@ -72,10 +72,10 @@ O app:
 python -m venv .venv
 
 # Windows:
-.venv\Scripts\activate
+.\.venv\Scripts\activate
 
 # Linux/Mac:
-source .venv/bin/activate
+source.venv/bin/activate
 
 pip install -r requirements.txt
 ```
@@ -98,4 +98,4 @@ streamlit run app.py
 ```
 ## 👩‍💻 Autoria
 
-CDPRO / **Daniela de David**
+CDPRO **Daniela de David**
